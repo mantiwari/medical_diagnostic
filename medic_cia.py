@@ -122,7 +122,7 @@ if __name__ == "__main__":
 
         
     with col2:
-        st.image("./logo_.png", width = 200)
+        st.image("./logo.png", width = 200)
 
         
     with col3:
