@@ -4,7 +4,4 @@ sounddevice
 cython
 sentencepiece
 soundfile
-streamlit-audiorecorder
-
-
-
+audio-recorder-streamlit
