@@ -1,3 +1,4 @@
+streamlit-audiorecorder
 streamlit
 streamlit_chat
 sounddevice
@@ -5,4 +6,3 @@ cython
 sentencepiece
 pydub==0.25.1
 soundfile
-streamlit-audiorecorder
